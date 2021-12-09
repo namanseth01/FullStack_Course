@@ -3,7 +3,7 @@ body {
   margin: 0;
 }
 .container {
-  display: inline;
+  display: inline-flex;
 }
 .top-container {
   background-color: blue;
