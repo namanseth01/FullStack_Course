@@ -2,13 +2,13 @@ body {
   background-color: aquamarine;
   margin: 0;
 }
-.container {
+/* .container {
   display: inline-flex;
-}
+} */
 .top-container {
   background-color: blue;
-  height: 200px;
-  width: 200px;
+  /* height: 200px;
+  width: 200px; */
   padding: 15px;
   margin: 5px;
   border: 3px solid;
