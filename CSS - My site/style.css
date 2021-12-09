@@ -19,17 +19,18 @@ body {
 
 .middle-container {
   background-color: rgb(184, 140, 20);
-  height: 200px;
-  width: 200px;
+  height: 235px;
+  width: 235px;
   /* margin-left: 235px; */
   border: 2px solid;
   display: block;
+  margin-right: 5px;
 }
 
 .bottom-container {
   background-color: rgb(15, 221, 101);
-  height: 200px;
-  width: 200px;
+  height: 250px;
+  width: 250px;
   /* margin-left: 455px; */
   border: 2px solid;
 }
