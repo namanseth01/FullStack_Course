@@ -2,19 +2,19 @@ body {
   background-color: aquamarine;
 }
 
-.top-conatiner {
+.top-container {
   background-color: blue;
   height: 200px;
   width: 200px;
 }
 
-.middle-conatiner {
+.middle-container {
   background-color: rgb(184, 140, 20);
   height: 200px;
   width: 200px;
 }
 
-.bottom-conatiner {
+.bottom-container {
   background-color: rgb(15, 221, 101);
   height: 200px;
   width: 200px;
