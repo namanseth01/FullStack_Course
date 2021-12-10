@@ -2,35 +2,35 @@ body {
   background-color: aquamarine;
   margin: 0;
 }
-/* .container {
-  display: inline-flex;
-} */
+
 .top-container {
   background-color: blue;
-  /* height: 200px;
-  width: 200px; */
-  padding: 15px;
-  margin: 5px;
-  border: 3px solid;
-  margin-top: 0;
+  height: 200px;
+  width: 200px;
+  /* padding: 15px;
+  margin: 5px; */
+  border: 2px solid;
+  /* margin-top: 0;
   margin-bottom: 0;
-  margin-left: 0;
+  margin-left: 0; */
+  display: inline-block;
 }
 
 .middle-container {
   background-color: rgb(184, 140, 20);
-  height: 235px;
-  width: 235px;
+  height: 200px;
+  width: 200px;
   /* margin-left: 235px; */
   border: 2px solid;
   display: block;
-  margin-right: 5px;
+  /* margin-right: 5px; */
+  display: inline-block;
 }
 
 .bottom-container {
   background-color: rgb(15, 221, 101);
-  height: 250px;
-  width: 250px;
-  /* margin-left: 455px; */
+  height: 200px;
+  width: 200px;
   border: 2px solid;
+  display: inline-block;
 }
