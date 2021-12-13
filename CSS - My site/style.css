@@ -1,6 +1,15 @@
 body {
   margin: 0;
   text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+h1 {
+  font-family: "Sacramento", cursive;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
 }
 
 .top-container {
@@ -9,10 +18,14 @@ body {
   padding-top: 100px;
 }
 
+.top-container h1 {
+  font-size: 50px;
+}
+
 .top-cloud {
   position: absolute;
-  right: 300px;
-  top: 50px;
+  right: 230px;
+  top: 40px;
 }
 
 .bottom-cloud {
