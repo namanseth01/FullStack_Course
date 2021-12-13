@@ -12,10 +12,21 @@ body {
   /* margin-top: 0;
   margin-bottom: 0;
   margin-left: 0; */
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
 }
 
 .bottom-cloud {
   position: absolute;
+  left: 300px;
+  bottom: 300px;
+  font-size: 500px;
 }
 
 .middle-container {
