@@ -36,18 +36,7 @@ h2 {
 }
 
 .middle-container {
-  background-color: rgb(184, 140, 20);
-  height: 200px;
-  width: 200px;
-  /* margin-left: 235px; */
-  border: 2px solid;
-  display: block;
-  /* margin-right: 5px; */
 }
 
 .bottom-container {
-  background-color: rgb(15, 221, 101);
-  height: 200px;
-  width: 200px;
-  border: 2px solid;
 }
