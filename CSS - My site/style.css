@@ -57,3 +57,22 @@ a {
   margin-left: 150px;
   margin-right: 150px;
 }
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-1 {
+  width: 25%;
+  float: left;
+  margin-right: 50px;
+}
+
+.skill-2 {
+  width: 25%;
+  float: right;
+  margin-left: 50px;
+}
