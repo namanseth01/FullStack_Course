@@ -10,6 +10,8 @@ h1 {
 
 h2 {
   font-family: "Montserrat", sans-serif;
+  color: #121414;
+  font-weight: normal;
 }
 
 .top-container {
@@ -19,18 +21,21 @@ h2 {
 }
 
 .top-container h1 {
-  font-size: 50px;
+  font-size: 70px;
+  color: #181a1a;
+  margin: 50px, auto, 0, auto;
+  line-height: 2;
 }
 
 .top-cloud {
   position: absolute;
   right: 230px;
-  top: 40px;
+  top: 20px;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 300px;
+  left: 250px;
   bottom: 300px;
   font-size: 500px;
 }
@@ -41,4 +46,8 @@ h2 {
 
 .bottom-container {
   flex: auto;
+}
+
+a {
+  color: #11999e;
 }
