@@ -2,4 +2,4 @@
 //   "Naman";
 
 // document.querySelector("h1").style.color = "blue";
-alert("hii");
+// alert("hii");
